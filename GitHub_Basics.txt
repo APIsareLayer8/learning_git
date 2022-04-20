@@ -1,0 +1,13 @@
+                    ***For GitHub Users***
+Create GitHub account @ https://github.com 
+Create the first repository on the site. *It is up to you if you want to make it public or private.* 
+
+The following commands are used in GitBash Terminal:
+cd <name-of-project-directory>
+git init 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/<username-here>/<repositoryname>_git.git
+git push -u origin main
+
